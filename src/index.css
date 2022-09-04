@@ -84,3 +84,7 @@ main {
 
   color: #0D0D0D;
 }
+
+.meme--image {
+  max-width: 100%;
+}
